@@ -1,0 +1,11 @@
+.project-manage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.project-manage h1{
+    color: #B62CF8;
+}
+.project-manage p{
+    color: #8491A0;
+}
